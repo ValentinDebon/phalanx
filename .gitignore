@@ -1,0 +1,6 @@
+configure
+GNUmakefile
+
+phalanx
+
+*.o

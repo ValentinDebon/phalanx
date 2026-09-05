@@ -1,0 +1,3 @@
+config LARGE_LANGUAGE_MODEL_PATH
+	"Path of the Phalanx large language model"
+	defaults "$(datadir)/Ministral-3-8B-Instruct-2512-Q8_0.gguf"
